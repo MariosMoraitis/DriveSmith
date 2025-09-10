@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveSmith", "DriveSmith.csproj", "{781C144A-9E07-46C1-8A0C-67EDDDD440AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781C144A-9E07-46C1-8A0C-67EDDDD440AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781C144A-9E07-46C1-8A0C-67EDDDD440AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781C144A-9E07-46C1-8A0C-67EDDDD440AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781C144A-9E07-46C1-8A0C-67EDDDD440AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34116CF4-4FC2-48B7-8129-9AABDF11FDDA}
+	EndGlobalSection
+EndGlobal
