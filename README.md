@@ -15,12 +15,10 @@ Format your USB drives quickly with a clean GUI and minimal fuss.
 ---
 
 ## 📸 Screenshots  
-*(Add your own screenshots here later — makes the repo much more attractive)*  
+<img width="605" height="605" alt="Screenshot_4" src="https://github.com/user-attachments/assets/3d5881bb-3d69-40b5-a8d7-35fe91b4b44e" />
 
 ---
-
 ## 🛠️ Installation  
-
 ### Option 1: Download (End Users)  
 - Go to [Releases](../../releases)  
 - Download the latest `DriveSmith.zip`  
@@ -44,4 +42,4 @@ This project is licensed under the MIT License – see LICENSE
  for details.
 
  ## 🙌 Support
-If you find this tool useful, consider starring ⭐ the repo or supporting via
+If you find this tool useful, consider starring ⭐ the repo or supporting [my Gumroad page](https://mariosmorait.gumroad.com/)
